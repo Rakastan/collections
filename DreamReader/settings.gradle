@@ -1,3 +1,0 @@
-include ':app'
-include ':lcrapiddeveloplibrary'
-project(":lcrapiddeveloplibrary").projectDir = new File("../lcrapiddeveloplibrary")
