@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xudong.tang/Documents/OpenSource/collections/DreamReader/app/build/intermediates/res/merged/debug/menu/menu_recovery_sub.xml",
+        "source": "/Users/xudong.tang/Documents/OpenSource/collections/DreamReader/app/build/intermediates/exploded-aar/DreamReader/lcrapiddeveloplibrary/unspecified/res/menu/menu_recovery_sub.xml"
+    },
+    {
+        "merged": "/Users/xudong.tang/Documents/OpenSource/collections/DreamReader/app/build/intermediates/res/merged/debug/menu/menu_recovery.xml",
+        "source": "/Users/xudong.tang/Documents/OpenSource/collections/DreamReader/app/build/intermediates/exploded-aar/DreamReader/lcrapiddeveloplibrary/unspecified/res/menu/menu_recovery.xml"
+    }
+]
