@@ -26,7 +26,7 @@ public class RetrofitUtils {
                 mOkHttpClient = OKHttp3Utils.getOKHttpClient();
             }
 
-            mRetrofit = new Retrofit.Builder().baseUrl(Constant.API_SERVER)
+            mRetrofit = new Retrofit.Builder().baseUrl(Constant.API_SERVER+ "/")
                     .addConverterFactory(GsonConverterFactory.create())
                     .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
                     .client(mOkHttpClient).build();

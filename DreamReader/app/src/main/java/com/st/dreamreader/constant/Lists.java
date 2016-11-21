@@ -1,6 +1,7 @@
 package com.st.dreamreader.constant;
 
-import com.lance.freebook.MVP.Entity.TasksManagerModel;
+
+import com.st.dreamreader.mvp.entity.TasksManagerModel;
 
 import java.util.ArrayList;
 import java.util.List;
